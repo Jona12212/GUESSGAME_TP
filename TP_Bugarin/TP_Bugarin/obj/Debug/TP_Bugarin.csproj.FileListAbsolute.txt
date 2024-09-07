@@ -1,0 +1,10 @@
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\bin\Debug\TP_Bugarin.exe.config
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\bin\Debug\TP_Bugarin.exe
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\bin\Debug\TP_Bugarin.pdb
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\obj\Debug\TP_Bugarin.csproj.AssemblyReference.cache
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\obj\Debug\TP_Bugarin.Form1.resources
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\obj\Debug\TP_Bugarin.Properties.Resources.resources
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\obj\Debug\TP_Bugarin.csproj.GenerateResource.cache
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\obj\Debug\TP_Bugarin.csproj.CoreCompileInputs.cache
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\obj\Debug\TP_Bugarin.exe
+C:\Users\JONALYN\source\repos\TP_Bugarin\TP_Bugarin\obj\Debug\TP_Bugarin.pdb
